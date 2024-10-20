@@ -87,5 +87,5 @@ Advanced Solidity: Yul and Assembly | Udemy
 
 ### Jump right in
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Awards</strong></td><td>Check my list of awards</td><td></td><td><a href="home/awards.md">awards.md</a></td></tr><tr><td>Projects</td><td>Check my latest projects</td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td>Blog</td><td>Check learning content</td><td></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Awards</strong></td><td>Check my list of awards</td><td></td><td><a href="home/awards.md">awards.md</a></td></tr><tr><td>Blockchain Projects</td><td>Check my latest projects</td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td>Contributions</td><td>Check projects contribution</td><td></td><td></td></tr></tbody></table>
 

@@ -24,7 +24,11 @@ NFT or ERC-721 Token deployed on Sepolia ETH Testnet using Hardhat. It uses Open
 
 Check the NFT info on [OpeanSea](https://testnets.opensea.io/assets/sepolia/0xfbe902aa67fa0d80445d15797cb69fb7cf8c649a/0)
 
-Check the source code on github
+Check the source code on github :arrow\_down:
+
+{% embed url="https://github.com/danielrc888/ERC721-Token" %}
+
+
 
 
 

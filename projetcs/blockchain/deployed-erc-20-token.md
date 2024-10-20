@@ -38,7 +38,11 @@ contract DanielToken is ERC20 {
 
 **Token symbol:** DJRC
 
-Check the source code on github
+Check the source code on github :arrow\_down:
+
+{% embed url="https://github.com/danielrc888/ERC-20-Token" %}
+
+
 
 #### Resources
 
