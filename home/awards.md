@@ -1,9 +1,12 @@
 ---
-description: List of my most notable awards
 icon: trophy
+description: List of my most notable awards
+cover: >-
+  https://images.unsplash.com/photo-1498931299472-f7a63a5a1cfa?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxmaXJld29ya3xlbnwwfHx8fDE3MjkzODQyNjB8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
-# Awards
+# 🏆 Awards
 
 {% stepper %}
 {% step %}

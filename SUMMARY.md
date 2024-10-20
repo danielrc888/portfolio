@@ -2,8 +2,8 @@
 
 ## HOME
 
-* [About](README.md)
-* [Awards](home/awards.md)
+* [👋 About](README.md)
+* [🏆 Awards](home/awards.md)
 
 ## Projetcs
 
@@ -13,7 +13,7 @@
   * [Staking Smart Contract](projetcs/blockchain/staking-smart-contract.md)
   * [NFT Indexer Dapp](projetcs/blockchain/nft-indexer-dapp.md)
   * [Hardhat Contract Testing](projetcs/blockchain/hardhat-contract-testing.md)
-* [Contribution](projetcs/contribution/README.md)
+* [💼 Contribution](projetcs/contribution/README.md)
   * [Buk](projetcs/contribution/buk.md)
   * [RaptorForms](projetcs/contribution/raptorforms.md)
   * [Talmaclick](projetcs/contribution/talmaclick.md)
